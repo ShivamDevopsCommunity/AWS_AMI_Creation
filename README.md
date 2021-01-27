@@ -67,8 +67,4 @@ For multiple instances it is easiest to use the Tag Editor.
 
 
 
-## Notes
 
-- This is another open source project bought to you by [Webdigi - Web development, London](https://www.webdigi.co.uk/).
-- Please submit your pull requests or suggestions to improve this script.
-- You can read about updates to this project on our blog - [AWS Instance Automated AMI Creation & Deletion System](https://www.webdigi.co.uk/blog/2017/aws-instance-automated-ami-creation-deletion-system/)
